@@ -10,10 +10,12 @@
 - Completed the Week 2 practice and assignment problems.
 - Practiced arrays, reusable methods, two-pointer logic, prefix sums, and binary search.
 - Completed the Session 3 practice and assignment problems.
+- Practiced array modification, 2D arrays, method overloading, constructors, and object comparison.
+- Completed the Session 4 practice and assignment problems.
 
 **Next Session Plan:**
 
-- Review array methods and practice more two-pointer problems.
+- Review constructors, method overloading, and array sorting.
 
 **Issues Faced:**
 
