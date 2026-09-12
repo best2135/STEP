@@ -12,10 +12,12 @@
 - Completed the Session 3 practice and assignment problems.
 - Practiced array modification, 2D arrays, method overloading, constructors, and object comparison.
 - Completed the Session 4 practice and assignment problems.
+- Completed the Session 5 practice and assignment problems.
+- Practiced classes, constructor chaining, encapsulation, object references, and static members.
 
 **Next Session Plan:**
 
-- Review constructors, method overloading, and array sorting.
+- Review access modifiers, getters, setters, and immutable objects.
 
 **Issues Faced:**
 
