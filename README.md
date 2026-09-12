@@ -4,11 +4,12 @@
 
 **Today's Work:**
 
-- Initialized the Semester 3 repository structure.
+- Initialized the Semester 3 branch structure.
+- Completed and verified all five Week 1 practice problems and all five Week 1 assignment problems.
 
 **Next Session Plan:**
 
-- Complete and verify the Week 1 practice and assignment problems.
+- Revise Java String methods and practice more examples.
 
 **Issues Faced:**
 
