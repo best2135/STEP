@@ -8,10 +8,12 @@
 - Completed and verified all five Week 1 practice problems and all five Week 1 assignment problems.
 - Practiced String methods, CSV parsing, validation, ASCII checks, and StringBuilder.
 - Completed the Week 2 practice and assignment problems.
+- Practiced arrays, reusable methods, two-pointer logic, prefix sums, and binary search.
+- Completed the Session 3 practice and assignment problems.
 
 **Next Session Plan:**
 
-- Practice more StringBuilder and ASCII examples.
+- Review array methods and practice more two-pointer problems.
 
 **Issues Faced:**
 
