@@ -6,10 +6,12 @@
 
 - Initialized the Semester 3 branch structure.
 - Completed and verified all five Week 1 practice problems and all five Week 1 assignment problems.
+- Practiced String methods, CSV parsing, validation, ASCII checks, and StringBuilder.
+- Completed the Week 2 practice and assignment problems.
 
 **Next Session Plan:**
 
-- Revise Java String methods and practice more examples.
+- Practice more StringBuilder and ASCII examples.
 
 **Issues Faced:**
 
